@@ -1,0 +1,74 @@
+#include <iostream>
+#include <cmath>
+
+using namespace std;
+
+int Vento(float v, float t)
+{
+	double w;
+	
+	w= 13.12+(0.6215*t)-(11.37*pow(v,0.16))+(0.3965*t*pow(v,0.16));
+	
+	cout << "O Indice de frio do vento eh: " << w << "°C";
+}
+
+int main()
+{
+	float v=0;
+	float t=0;
+	float novo=0;
+	int escolha;
+	
+	cout << "******INDICE DE FRIO DO VENTO******\n";
+	
+	cout << "A velocidade do vento deve estar em m/s, deseja utilizar o conversor?";
+	
+	cout << "\nPara utilizar, pressione 1, caso contrario, pressione qualquer outro numero: ";
+	
+	cin >> escolha;
+	
+	if(escolha==1)
+	{
+		cout << "Informe o modulo da velocidade em Km/h: ";
+	
+	    cin >> v;
+	    
+	    novo= v/3.6;
+	    
+  		cout << "Informe a temperatura em Celsius: ";
+	
+        cin >> t;
+        
+        if(t <= 10)
+		{
+			Vento(novo,t);
+		}
+		
+		else
+		{
+			cout << "Informe uma temperatura válida!";
+		}
+	}
+	
+	else
+	{
+		cout << "Informe a velocidade do vento em m/s: ";
+	
+	    cin >> v;
+	
+	    cout << "Informe a temperatura em Celsius: ";
+	
+        cin >> t;
+        
+        if(t <= 10)
+		{
+			Vento(v,t);		
+		}
+		
+		else
+		{
+			cout << "Informe uma temperatura válida!";
+		}
+		
+	}
+}
