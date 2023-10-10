@@ -20,4 +20,4 @@ Pretendo continuar estudando mesmo depois de formada, me aprofundar em alguma á
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title = "C"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title = "C++"/></code
 
-![Snake animation](https://github.com/Nandapanzera/nandapanzera/blob/output/github-contribution-grid-snake.svg) 
+[![Snake animation](https://github.com/nandapanzera/github-contribution-snake/blob/output/github-contribution-grid-snake.svg)](https://github.com/nandapanzera/github-contribution-snake)
