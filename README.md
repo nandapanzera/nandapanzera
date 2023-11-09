@@ -25,5 +25,3 @@ Oii!! Meu nome é Fernanda Panzera, moro em Belém do Pará e estou cursando Eng
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&color=C71585)](mailto:fernandapanzera25@gmail.com)
 
 ![GitHub followers](https://img.shields.io/github/followers/nandapanzera?label=Follow&style=social)
-
-![snake gif](https://github.com/nandapanzera/nandapanzera/blob/output/github-contribution-grid-snake.svg)
