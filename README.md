@@ -1,7 +1,3 @@
-<h4 align="center">
-<img width="100%" src="https://giffiles.alphacoders.com/195/195349.gif" title = "hrtrtr"/>
- </br>
-
 ## Hello, World! 👋
 
 Oii, meu nome é Fernanda Panzera, moro em Belém do Pará e estou cursando engenharia da computação.
