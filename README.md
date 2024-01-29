@@ -2,7 +2,7 @@
 
 Oii!! Meu nome é Fernanda Panzera, moro em Belém do Pará e estou cursando Engenharia da Computação.
 
-- 📖 Quarto período de Engenharia da Computação no [Cesupa](https://www.cesupa.br)
+- 📖 Quinto período de Engenharia da Computação no [Cesupa](https://www.cesupa.br)
 - 💻 Estagiária de desenvolvimento web na [Zenith Inova](https://zenithinova.com.br)
 - ⭐ Representante do Escritório de Engenharia 
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/416cae9f-951f-45f3-a387-c541f78d4bf3/dds4n60-eb1055e7-a921-4772-ac2c-36c53bd19b8f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQxNmNhZTlmLTk1MWYtNDVmMy1hMzg3LWM1NDFmNzhkNGJmM1wvZGRzNG42MC1lYjEwNTVlNy1hOTIxLTQ3NzItYWMyYy0zNmM1M2JkMTliOGYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.eqIHIJ5btb2jrleG_Uvm4N9_Q0Iu6z6nJVlYSNiWQ-E" width="650" height="auto" />
