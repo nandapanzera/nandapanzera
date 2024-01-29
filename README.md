@@ -39,7 +39,3 @@ Fique à vontade para me enviar uma mensagem se quiser discutir colaborações, 
 
 [![Linguagens Mais Usadas por nandapanzera](https://github-readme-stats.vercel.app/api/top-langs/?username=nandapanzera&layout=compact)](https://github.com/nandapanzera)
 
-## Minha Atividade de Commits 🐍
-
-![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nandapanzera)
-
