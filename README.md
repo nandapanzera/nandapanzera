@@ -6,7 +6,7 @@ Oii!! Eu sou Fernanda Panzera, moro em Belém do Pará e estou cursando Engenhar
 - 💻 Estagiária de desenvolvimento web na [Zenith Inova](https://zenithinova.com.br)
 - ⭐ Representante do Escritório de Engenharia 
 
-## 📱 Tecnologias e Ferramentas: 
+## Tecnologias e Ferramentas 📱
 
 - **Linguagens de Programação:**
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
