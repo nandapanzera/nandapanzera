@@ -26,7 +26,7 @@ Fique à vontade para me enviar uma mensagem se quiser discutir colaborações, 
 ### 💖 Siga-me!
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&color=FF1493)](https://www.instagram.com/nanda_panzera/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&color=FF69B4)](https://www.linkedin.com/in/fernandapanzera/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&color=FF69B4)](https://www.linkedin.com/in/fernandapanzera25)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&color=C71585)](mailto:fernandapanzera25@gmail.com)
 
 ![GitHub followers](https://img.shields.io/github/followers/nandapanzera?label=Follow&style=social)
