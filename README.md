@@ -35,7 +35,7 @@ Fique à vontade para me enviar uma mensagem se quiser discutir colaborações, 
 
 ![Estatísticas do GitHub de nandapanzera](https://github-readme-stats.vercel.app/api?username=nandapanzera&show_icons=true&count_private=true&hide=contribs,prs)
 
-## Contribuições e Projetos Populares 🌟
+## Contribuições 🌟
 
 [![Linguagens Mais Usadas por nandapanzera](https://github-readme-stats.vercel.app/api/top-langs/?username=nandapanzera&layout=compact)](https://github.com/nandapanzera)
 
