@@ -21,7 +21,7 @@ Oii!! Eu sou Fernanda Panzera, moro em Belém do Pará e estou cursando Engenhar
 
 ## Como Entrar em Contato 📬
 
-Fique à vontade para me enviar uma mensagem se quiser discutir colaborações, projetos ou apenas para bater um papo! Estou sempre aberto a novas conexões.
+Fique à vontade para me enviar uma mensagem se quiser discutir colaborações, projetos ou apenas para bater um papo! Estou sempre aberta a novas conexões.
 
 ### 💖 Siga-me!
 
