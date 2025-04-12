@@ -1,9 +1,9 @@
 # ✨ Hello, World! ✨
 
-Oii!! Eu sou Fernanda Panzera, moro em Belém do Pará e estou cursando Engenharia da Computação.
+Oii!! Eu sou Fernanda Panzera, sou graduanda em Engenharia e entusiasta da tecnologia. Iniciei minha jornada no desenvolvimento web, onde desenvolvi uma base técnica sólida, mas na área de gestão encontrei meu maior interesse profissional. Valorizo o aprendizado contínuo, sobretudo aliado à prática. Meu objetivo é deixar uma marca positiva em cada projeto e equipe da qual faço parte. 
 
 - 📖 Sexto período de Engenharia da Computação no [Cesupa](https://www.cesupa.br)
-- 💻 Estagiária de desenvolvimento web na [Zenith Inova](https://zenithinova.com.br)
+- 💻 Product Manager Trainee web na [Zenith Inova](https://zenithinova.com.br)
 - ⭐ Representante do Escritório de Engenharia 
 
 ## Tecnologias e Ferramentas 📱
